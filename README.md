@@ -23,6 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsudhi&show_icons=true&locale=en&layout=compact" alt="adarshsudhi" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/adarshadarz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/adarshadarz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/adarshadarz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/adarshadarz" /></a></p><br><br>
 
 
