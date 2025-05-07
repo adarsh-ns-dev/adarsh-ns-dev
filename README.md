@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh N S</h1>
 <h3 align="center">App developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsudhi&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsudhi" /> </p>
-
-
 - 🔭 I’m currently working on **NorSe Music Player**
 
 - 📫 How to reach me **adarshadar543@gmail.com**
@@ -21,7 +18,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsudhi&show_icons=true&locale=en&layout=compact" alt="adarshsudhi" /></p>
-
+<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarshadarz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/adarshadarz" /></a></p><br><br>
 
